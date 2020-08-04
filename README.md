@@ -4,10 +4,9 @@ This project is a simplified clone of Netflix Website which is also responsive. 
 
 ## DEMO
 
-You can see the live demo of the website here:
-
-# <p align="center"><img src="img/demo1.jpeg"/></p>
 # <p align="center"><img src="img/demo2.jpeg"/></p>
+# <p align="center"><img src="img/demo1.jpeg"/></p>
+
 
 ## Author
 
